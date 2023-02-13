@@ -1,6 +1,7 @@
 ### Hi! I'm Marcos Gomes 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gomes-4414b3233/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markkin_sg/)
 
 ![Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosgomesdev&show_icons=true&theme=radical)
 

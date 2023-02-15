@@ -22,4 +22,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-###Passionate about technology!
+
+
+### Passionate about technology!
